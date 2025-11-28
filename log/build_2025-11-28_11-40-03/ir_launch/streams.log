@@ -1,0 +1,27 @@
+[0.018s] Invoking command in '/home/prakash/ws_8_assignments/build/ir_launch': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/prakash/ws_8_assignments/build/ir_launch -- -j12 -l12
+[0.061s] Invoked command in '/home/prakash/ws_8_assignments/build/ir_launch' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/prakash/ws_8_assignments/build/ir_launch -- -j12 -l12
+[0.062s] Invoking command in '/home/prakash/ws_8_assignments/build/ir_launch': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/prakash/ws_8_assignments/build/ir_launch
+[0.070s] -- Install configuration: ""
+[0.070s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ament_index/resource_index/package_run_dependencies/ir_launch
+[0.070s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ament_index/resource_index/parent_prefix_path/ir_launch
+[0.070s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/environment/ament_prefix_path.sh
+[0.071s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/environment/ament_prefix_path.dsv
+[0.071s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/environment/path.sh
+[0.071s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/environment/path.dsv
+[0.073s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/local_setup.bash
+[0.073s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/local_setup.sh
+[0.073s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/local_setup.zsh
+[0.073s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/local_setup.dsv
+[0.073s] -- Installing: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/package.dsv
+[0.073s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ament_index/resource_index/packages/ir_launch
+[0.073s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/cmake/ir_launchConfig.cmake
+[0.073s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/cmake/ir_launchConfig-version.cmake
+[0.075s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/package.xml
+[0.075s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/launch
+[0.075s] -- Installing: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/launch/__pycache__
+[0.075s] -- Installing: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/launch/__pycache__/assignment_1.launch.cpython-312.pyc
+[0.075s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/launch/spawn_tb3_launch.py
+[0.076s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/launch/assignment_1.launch.py
+[0.076s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/launch/assignment_2.launch.py
+[0.076s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_launch/share/ir_launch/launch/exercise_4.launch.py
+[0.095s] Invoked command in '/home/prakash/ws_8_assignments/build/ir_launch' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/prakash/ws_8_assignments/build/ir_launch

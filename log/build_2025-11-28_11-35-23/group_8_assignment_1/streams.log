@@ -1,0 +1,26 @@
+[0.012s] Invoking command in '/home/prakash/ws_8_assignments/build/group_8_assignment_1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/prakash/ws_8_assignments/build/group_8_assignment_1 -- -j12 -l12
+[0.075s] [ 50%] Built target tag_goal_node
+[0.075s] [100%] Built target table_detection_node
+[0.085s] Invoked command in '/home/prakash/ws_8_assignments/build/group_8_assignment_1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/prakash/ws_8_assignments/build/group_8_assignment_1 -- -j12 -l12
+[0.095s] Invoking command in '/home/prakash/ws_8_assignments/build/group_8_assignment_1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/prakash/ws_8_assignments/build/group_8_assignment_1
+[0.103s] -- Install configuration: ""
+[0.103s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/lib/group_8_assignment_1/tag_goal_node
+[0.103s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/lib/group_8_assignment_1/table_detection_node
+[0.103s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/group_8_assignment_1/launch
+[0.103s] -- Installing: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/group_8_assignment_1/launch/assignment_1_full.launch.py
+[0.104s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/ament_index/resource_index/package_run_dependencies/group_8_assignment_1
+[0.104s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/ament_index/resource_index/parent_prefix_path/group_8_assignment_1
+[0.104s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/group_8_assignment_1/environment/ament_prefix_path.sh
+[0.104s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/group_8_assignment_1/environment/ament_prefix_path.dsv
+[0.104s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/group_8_assignment_1/environment/path.sh
+[0.104s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/group_8_assignment_1/environment/path.dsv
+[0.104s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/group_8_assignment_1/local_setup.bash
+[0.104s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/group_8_assignment_1/local_setup.sh
+[0.104s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/group_8_assignment_1/local_setup.zsh
+[0.105s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/group_8_assignment_1/local_setup.dsv
+[0.105s] -- Installing: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/group_8_assignment_1/package.dsv
+[0.105s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/ament_index/resource_index/packages/group_8_assignment_1
+[0.105s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/group_8_assignment_1/cmake/group_8_assignment_1Config.cmake
+[0.105s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/group_8_assignment_1/cmake/group_8_assignment_1Config-version.cmake
+[0.105s] -- Up-to-date: /home/prakash/ws_8_assignments/install/group_8_assignment_1/share/group_8_assignment_1/package.xml
+[0.107s] Invoked command in '/home/prakash/ws_8_assignments/build/group_8_assignment_1' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/prakash/ws_8_assignments/build/group_8_assignment_1

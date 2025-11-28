@@ -1,0 +1,84 @@
+[0.024s] Invoking command in '/home/prakash/ws_8_assignments/build/ir_desription': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/prakash/ws_8_assignments/src/ir_2526/ir_desription -DCMAKE_INSTALL_PREFIX=/home/prakash/ws_8_assignments/install/ir_desription
+[0.085s] -- The C compiler identification is GNU 13.3.0
+[0.139s] -- The CXX compiler identification is GNU 13.3.0
+[0.154s] -- Detecting C compiler ABI info
+[0.248s] -- Detecting C compiler ABI info - done
+[0.256s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.256s] -- Detecting C compile features
+[0.256s] -- Detecting C compile features - done
+[0.264s] -- Detecting CXX compiler ABI info
+[0.362s] -- Detecting CXX compiler ABI info - done
+[0.369s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.369s] -- Detecting CXX compile features
+[0.370s] -- Detecting CXX compile features - done
+[0.375s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.525s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.663s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.780s] -- Added test 'lint_cmake' to check CMake code style
+[0.783s] -- Added test 'xmllint' to check XML markup files
+[0.784s] -- Configuring done (0.7s)
+[0.788s] -- Generating done (0.0s)
+[0.789s] -- Build files have been written to: /home/prakash/ws_8_assignments/build/ir_desription
+[0.794s] Invoked command in '/home/prakash/ws_8_assignments/build/ir_desription' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/prakash/ws_8_assignments/src/ir_2526/ir_desription -DCMAKE_INSTALL_PREFIX=/home/prakash/ws_8_assignments/install/ir_desription
+[0.795s] Invoking command in '/home/prakash/ws_8_assignments/build/ir_desription': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/prakash/ws_8_assignments/build/ir_desription -- -j12 -l12
+[0.835s] Invoked command in '/home/prakash/ws_8_assignments/build/ir_desription' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/prakash/ws_8_assignments/build/ir_desription -- -j12 -l12
+[0.836s] Invoking command in '/home/prakash/ws_8_assignments/build/ir_desription': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/prakash/ws_8_assignments/build/ir_desription
+[0.843s] -- Install configuration: ""
+[0.844s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ament_index/resource_index/package_run_dependencies/ir_desription
+[0.844s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ament_index/resource_index/parent_prefix_path/ir_desription
+[0.844s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/environment/ament_prefix_path.sh
+[0.844s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/environment/ament_prefix_path.dsv
+[0.845s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/environment/path.sh
+[0.845s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/environment/path.dsv
+[0.845s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/local_setup.bash
+[0.845s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/local_setup.sh
+[0.845s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/local_setup.zsh
+[0.845s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/local_setup.dsv
+[0.845s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/package.dsv
+[0.846s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ament_index/resource_index/packages/ir_desription
+[0.846s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/cmake/ir_desriptionConfig.cmake
+[0.846s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/cmake/ir_desriptionConfig-version.cmake
+[0.846s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/package.xml
+[0.846s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes
+[0.846s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5
+[0.846s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/collision
+[0.846s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/collision/base.stl
+[0.847s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/collision/upperarm.stl
+[0.847s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/collision/wrist3.stl
+[0.848s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/collision/shoulder.stl
+[0.848s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/collision/forearm.stl
+[0.848s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/collision/wrist2.stl
+[0.848s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/collision/wrist1.stl
+[0.849s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/visual
+[0.849s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/visual/upperarm.dae
+[0.852s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/visual/wrist3.dae
+[0.853s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/visual/forearm.dae
+[0.857s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/visual/wrist1.dae
+[0.860s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/visual/wrist2.dae
+[0.861s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/visual/shoulder.dae
+[0.864s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/meshes/ur5/visual/base.dae
+[0.865s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/config
+[0.865s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/config/ur5
+[0.865s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/config/ur5/default_kinematics.yaml
+[0.865s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/config/ur5/visual_parameters.yaml
+[0.866s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/config/ur5/physical_parameters.yaml
+[0.866s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/config/ur5/joint_limits.yaml
+[0.866s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/config/initial_positions.yaml
+[0.867s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf
+[0.867s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/ur_macro.xacro
+[0.867s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/ur_gz.ros2_control.xacro
+[0.867s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/robotiq_d.urdf
+[0.868s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/ur_gripper.urdf
+[0.868s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/ur_gripper_backup.urdf
+[0.868s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/ros2_control_mock_hardware.xacro
+[0.868s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/ur_mocked.urdf.xacro
+[0.868s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/ur.urdf.xacro
+[0.868s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/ur_gripper.urdf.xacro
+[0.869s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/ur_gripper_base.urdf
+[0.869s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/original.urdf
+[0.869s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/inc
+[0.869s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/inc/ur_transmissions.xacro
+[0.870s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/inc/ur_common.xacro
+[0.870s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/inc/ur_joint_control.xacro
+[0.870s] -- Installing: /home/prakash/ws_8_assignments/install/ir_desription/share/ir_desription/urdf/inc/ur_sensors.xacro
+[0.873s] Invoked command in '/home/prakash/ws_8_assignments/build/ir_desription' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/prakash/ws_8_assignments/build/ir_desription

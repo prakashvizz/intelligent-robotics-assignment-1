@@ -1,0 +1,9 @@
+/home/prakash/ws_8_assignments/build/ir_base/CMakeFiles/uninstall.dir
+/home/prakash/ws_8_assignments/build/ir_base/CMakeFiles/ir_base_uninstall.dir
+/home/prakash/ws_8_assignments/build/ir_base/CMakeFiles/test.dir
+/home/prakash/ws_8_assignments/build/ir_base/CMakeFiles/edit_cache.dir
+/home/prakash/ws_8_assignments/build/ir_base/CMakeFiles/rebuild_cache.dir
+/home/prakash/ws_8_assignments/build/ir_base/CMakeFiles/list_install_components.dir
+/home/prakash/ws_8_assignments/build/ir_base/CMakeFiles/install.dir
+/home/prakash/ws_8_assignments/build/ir_base/CMakeFiles/install/local.dir
+/home/prakash/ws_8_assignments/build/ir_base/CMakeFiles/install/strip.dir

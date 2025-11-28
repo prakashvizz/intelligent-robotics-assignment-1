@@ -1,0 +1,103 @@
+[0.025s] Invoking command in '/home/prakash/ws_8_assignments/build/ir_movit_config': CMAKE_PREFIX_PATH=/home/prakash/ws_8_assignments/install/ir_desription:/home/prakash/ws_8_assignments/install/ir_movit_config:/home/prakash/ws_8_assignments/install/ir_launch:/home/prakash/ws_8_assignments/install/ir_base:/home/prakash/ws_8_assignments/install/apriltag_ros:/home/prakash/assignment_ws/install/group_8_assignment_1:/home/prakash/assignment_ws/install/table_detection_pkg:/home/prakash/ros2_ws/install/my_first_pkg:/home/prakash/ros2_ws/install/actions_pkg:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/prakash/ws_8_assignments/src/ir_2526/ir_movit_config -DCMAKE_INSTALL_PREFIX=/home/prakash/ws_8_assignments/install/ir_movit_config
+[0.075s] -- The C compiler identification is GNU 13.3.0
+[0.125s] -- The CXX compiler identification is GNU 13.3.0
+[0.140s] -- Detecting C compiler ABI info
+[0.225s] -- Detecting C compiler ABI info - done
+[0.232s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.232s] -- Detecting C compile features
+[0.233s] -- Detecting C compile features - done
+[0.242s] -- Detecting CXX compiler ABI info
+[0.334s] -- Detecting CXX compiler ABI info - done
+[0.341s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.342s] -- Detecting CXX compile features
+[0.342s] -- Detecting CXX compile features - done
+[0.347s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.491s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.613s] -- Found rclcpp: 28.1.12 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.670s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.689s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.710s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.732s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.829s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.834s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.929s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[0.951s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[0.976s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.062s] -- Found sensor_msgs: 5.3.6 (/opt/ros/jazzy/share/sensor_msgs/cmake)
+[1.204s] -- Configuring done (1.2s)
+[1.214s] -- Generating done (0.0s)
+[1.217s] -- Build files have been written to: /home/prakash/ws_8_assignments/build/ir_movit_config
+[1.229s] Invoked command in '/home/prakash/ws_8_assignments/build/ir_movit_config' returned '0': CMAKE_PREFIX_PATH=/home/prakash/ws_8_assignments/install/ir_desription:/home/prakash/ws_8_assignments/install/ir_movit_config:/home/prakash/ws_8_assignments/install/ir_launch:/home/prakash/ws_8_assignments/install/ir_base:/home/prakash/ws_8_assignments/install/apriltag_ros:/home/prakash/assignment_ws/install/group_8_assignment_1:/home/prakash/assignment_ws/install/table_detection_pkg:/home/prakash/ros2_ws/install/my_first_pkg:/home/prakash/ros2_ws/install/actions_pkg:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/prakash/ws_8_assignments/src/ir_2526/ir_movit_config -DCMAKE_INSTALL_PREFIX=/home/prakash/ws_8_assignments/install/ir_movit_config
+[1.230s] Invoking command in '/home/prakash/ws_8_assignments/build/ir_movit_config': CMAKE_PREFIX_PATH=/home/prakash/ws_8_assignments/install/ir_desription:/home/prakash/ws_8_assignments/install/ir_movit_config:/home/prakash/ws_8_assignments/install/ir_launch:/home/prakash/ws_8_assignments/install/ir_base:/home/prakash/ws_8_assignments/install/apriltag_ros:/home/prakash/assignment_ws/install/group_8_assignment_1:/home/prakash/assignment_ws/install/table_detection_pkg:/home/prakash/ros2_ws/install/my_first_pkg:/home/prakash/ros2_ws/install/actions_pkg:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/prakash/ws_8_assignments/build/ir_movit_config -- -j12 -l12
+[1.288s] [ 50%] [32mBuilding CXX object CMakeFiles/short_joint_state_publisher.dir/src/short_joint_state_publisher.cpp.o[0m
+[4.928s] [100%] [32m[1mLinking CXX executable short_joint_state_publisher[0m
+[5.099s] [100%] Built target short_joint_state_publisher
+[5.115s] Invoked command in '/home/prakash/ws_8_assignments/build/ir_movit_config' returned '0': CMAKE_PREFIX_PATH=/home/prakash/ws_8_assignments/install/ir_desription:/home/prakash/ws_8_assignments/install/ir_movit_config:/home/prakash/ws_8_assignments/install/ir_launch:/home/prakash/ws_8_assignments/install/ir_base:/home/prakash/ws_8_assignments/install/apriltag_ros:/home/prakash/assignment_ws/install/group_8_assignment_1:/home/prakash/assignment_ws/install/table_detection_pkg:/home/prakash/ros2_ws/install/my_first_pkg:/home/prakash/ros2_ws/install/actions_pkg:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/prakash/ws_8_assignments/build/ir_movit_config -- -j12 -l12
+[5.116s] Invoking command in '/home/prakash/ws_8_assignments/build/ir_movit_config': CMAKE_PREFIX_PATH=/home/prakash/ws_8_assignments/install/ir_desription:/home/prakash/ws_8_assignments/install/ir_movit_config:/home/prakash/ws_8_assignments/install/ir_launch:/home/prakash/ws_8_assignments/install/ir_base:/home/prakash/ws_8_assignments/install/apriltag_ros:/home/prakash/assignment_ws/install/group_8_assignment_1:/home/prakash/assignment_ws/install/table_detection_pkg:/home/prakash/ros2_ws/install/my_first_pkg:/home/prakash/ros2_ws/install/actions_pkg:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/prakash/ws_8_assignments/build/ir_movit_config
+[5.126s] -- Install configuration: ""
+[5.126s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ament_index/resource_index/package_run_dependencies/ir_movit_config
+[5.126s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ament_index/resource_index/parent_prefix_path/ir_movit_config
+[5.127s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/environment/ament_prefix_path.sh
+[5.127s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/environment/ament_prefix_path.dsv
+[5.127s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/environment/path.sh
+[5.127s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/environment/path.dsv
+[5.127s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/local_setup.bash
+[5.127s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/local_setup.sh
+[5.127s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/local_setup.zsh
+[5.128s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/local_setup.dsv
+[5.128s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/package.dsv
+[5.128s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ament_index/resource_index/packages/ir_movit_config
+[5.128s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/cmake/ir_movit_configConfig.cmake
+[5.128s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/cmake/ir_movit_configConfig-version.cmake
+[5.128s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/package.xml
+[5.128s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/launch
+[5.129s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/launch/ir_movit.launch.py
+[5.129s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/launch/fake_hw.launch.py
+[5.129s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/launch/ir_base.launch.py
+[5.129s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/launch/simulation_complete.launch.py
+[5.129s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/launch/tmp.py
+[5.130s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/launch/gazebo.launch.py
+[5.130s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/launch/test.launch.py
+[5.130s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/launch/ir_ur.py
+[5.130s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config
+[5.130s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/kinematics.yaml
+[5.130s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/ur_gripper.srdf
+[5.131s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/moveit_config.yaml
+[5.131s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/robot_with_environment.urdf.xacro
+[5.131s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/pilz_cartesian_limits.yaml
+[5.131s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/moveit_controllers.yaml
+[5.131s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/ur_servo.yaml
+[5.132s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/ur_gripper.ros2_control.xacro
+[5.132s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/joint_limits_old.yaml
+[5.132s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/fake_joint_driver.yaml
+[5.132s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/controllers.yaml
+[5.132s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/ur_gripper.urdf.xacro
+[5.132s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/ros2_controllers.yaml
+[5.133s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/old_ros2_controllers.yaml
+[5.133s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/initial_positions.yaml
+[5.133s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/joint_limits.yaml
+[5.133s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/moveit.rviz
+[5.133s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/r_controller.yaml
+[5.133s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/.setup_assistant
+[5.134s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config
+[5.134s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/kinematics.yaml
+[5.134s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/ur_gripper.srdf
+[5.134s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/moveit_config.yaml
+[5.134s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/robot_with_environment.urdf.xacro
+[5.134s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/pilz_cartesian_limits.yaml
+[5.134s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/moveit_controllers.yaml
+[5.134s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/ur_servo.yaml
+[5.135s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/ur_gripper.ros2_control.xacro
+[5.135s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/joint_limits_old.yaml
+[5.135s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/fake_joint_driver.yaml
+[5.135s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/controllers.yaml
+[5.135s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/ur_gripper.urdf.xacro
+[5.135s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/ros2_controllers.yaml
+[5.135s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/old_ros2_controllers.yaml
+[5.135s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/initial_positions.yaml
+[5.135s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/joint_limits.yaml
+[5.135s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/moveit.rviz
+[5.135s] -- Up-to-date: /home/prakash/ws_8_assignments/install/ir_movit_config/share/ir_movit_config/config/r_controller.yaml
+[5.135s] -- Installing: /home/prakash/ws_8_assignments/install/ir_movit_config/lib/ir_movit_config/short_joint_state_publisher
+[5.136s] -- Set non-toolchain portion of runtime path of "/home/prakash/ws_8_assignments/install/ir_movit_config/lib/ir_movit_config/short_joint_state_publisher" to ""
+[5.138s] Invoked command in '/home/prakash/ws_8_assignments/build/ir_movit_config' returned '0': CMAKE_PREFIX_PATH=/home/prakash/ws_8_assignments/install/ir_desription:/home/prakash/ws_8_assignments/install/ir_movit_config:/home/prakash/ws_8_assignments/install/ir_launch:/home/prakash/ws_8_assignments/install/ir_base:/home/prakash/ws_8_assignments/install/apriltag_ros:/home/prakash/assignment_ws/install/group_8_assignment_1:/home/prakash/assignment_ws/install/table_detection_pkg:/home/prakash/ros2_ws/install/my_first_pkg:/home/prakash/ros2_ws/install/actions_pkg:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/prakash/ws_8_assignments/build/ir_movit_config

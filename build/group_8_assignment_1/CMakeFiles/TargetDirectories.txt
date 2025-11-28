@@ -1,0 +1,11 @@
+/home/prakash/ws_8_assignments/build/group_8_assignment_1/CMakeFiles/uninstall.dir
+/home/prakash/ws_8_assignments/build/group_8_assignment_1/CMakeFiles/group_8_assignment_1_uninstall.dir
+/home/prakash/ws_8_assignments/build/group_8_assignment_1/CMakeFiles/tag_goal_node.dir
+/home/prakash/ws_8_assignments/build/group_8_assignment_1/CMakeFiles/table_detection_node.dir
+/home/prakash/ws_8_assignments/build/group_8_assignment_1/CMakeFiles/test.dir
+/home/prakash/ws_8_assignments/build/group_8_assignment_1/CMakeFiles/edit_cache.dir
+/home/prakash/ws_8_assignments/build/group_8_assignment_1/CMakeFiles/rebuild_cache.dir
+/home/prakash/ws_8_assignments/build/group_8_assignment_1/CMakeFiles/list_install_components.dir
+/home/prakash/ws_8_assignments/build/group_8_assignment_1/CMakeFiles/install.dir
+/home/prakash/ws_8_assignments/build/group_8_assignment_1/CMakeFiles/install/local.dir
+/home/prakash/ws_8_assignments/build/group_8_assignment_1/CMakeFiles/install/strip.dir
